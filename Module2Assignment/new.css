@@ -22,7 +22,7 @@ body{
 		display:inline;
 	    border: 1px solid black;
 	    font-family:sans-serif;
-	    width:100px;
+	    max-width:100px;
 	    height: 20px;
 	    margin-left: auto;
 	    margin-right:0;
@@ -54,7 +54,7 @@ body{
          border: 1px solid black;    
             
          height: ; 
-         width: 400px; 
+         max-width: 400px; 
          margin-top: 30px;  
          margin-right: 5px;    
          margin-left: 20px;    
@@ -70,7 +70,7 @@ body{
          border: 1px solid black;    
              
          height: ; 
-         width: 400px; 
+        max-width: 400px; 
          margin-top: 30px;  
          margin-right: 5px;    
          margin-left: 20px;    
@@ -87,7 +87,7 @@ body{
          border: 1px solid black;    
             
          height: ; 
-         width: 400px; 
+        max-width: 400px; 
          margin-top: 30px;  
          margin-right: 5px;    
          margin-left: 20px;    
