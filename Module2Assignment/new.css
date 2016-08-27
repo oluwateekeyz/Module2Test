@@ -34,7 +34,7 @@ body{
 	   
 	}
 	#Nigeria{
-           background-color: limegreen;
+           background-color: #21421e;
            padding: 10px;
 
 		
@@ -45,7 +45,7 @@ body{
 		
 	}
 	#Anthem{
-		background-color: limegreen;
+		background-color: #32127a;
 		padding: 10px;
 		
 	}
@@ -201,4 +201,9 @@ body{
   .col-md-12 {
     width: 100%;
   }
+   .third{
+  	max-width: 800px;
+  	max-height: 500;
+  	box-sizing: border-box;
+}
 }
